@@ -23,7 +23,7 @@ export default function FAQPage() {
     },
     {
       question: 'Do you offer a free trial?',
-      answer: 'Yes! We offer a 12-day free trial for both our Standard and Premium plans. No credit card is required to start your trial, and you can upgrade or downgrade at any time during or after the trial period.'
+      answer: 'Yes! We offer a 7-day free trial for both our Standard and Premium plans. No credit card is required to start your trial, and you can upgrade or downgrade at any time during or after the trial period.'
     },
     {
       question: 'Can I import my existing data?',

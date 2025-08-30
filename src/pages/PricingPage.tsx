@@ -9,10 +9,11 @@ export default function PricingPage() {
   };
 
   const standardFeatures = [
-    'Unlimited client records',
-    'Advanced automation',
-    'Booking & scheduling',
-    'Basic analytics',
+    'All the Tools to Capture More Leads',
+    'Nurture & Close Leads into Customers',
+    'Full Online Booking, Pipelines, Social Cal, Website Builder, and More!',
+    'Unlimited Contacts & Users, Add as Many Contacts & Users as You Need!',
+    'Setup Up To Three Sub-Accounts',
     '7-day free trial'
   ];
 

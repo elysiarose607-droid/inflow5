@@ -13,7 +13,7 @@ export default function PricingPage() {
     'Advanced automation',
     'Booking & scheduling',
     'Basic analytics',
-    '12-day free trial'
+    '7-day free trial'
   ];
 
   const premiumFeatures = [
@@ -22,7 +22,7 @@ export default function PricingPage() {
     'Priority support',
     'White-label option',
     'API access',
-    '12-day free trial'
+    '7-day free trial'
   ];
 
   return (
@@ -33,7 +33,7 @@ export default function PricingPage() {
             Choose Your Plan
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto font-light">
-            Scale your business with the right plan for your needs. All plans include a 12-day free trial.
+            Scale your business with the right plan for your needs. All plans include a 7-day free trial.
           </p>
         </div>
 

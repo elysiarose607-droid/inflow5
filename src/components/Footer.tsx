@@ -48,7 +48,7 @@ export default function Footer({ onNavigate }: FooterProps) {
                     WebkitMaskPosition: "center",
                     maskPosition: "center",
                   }} />
-                <img src="/dffdf.png" alt="Inflow Logo" className="h-full w-auto opacity-0" />
+                <img src="/dffdf.png" alt="Inflow Logo" className="h-full w-auto opacity-0 pl-4" />
               </div>
             </div>
             <div className="space-y-2">

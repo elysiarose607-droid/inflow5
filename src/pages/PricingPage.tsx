@@ -18,11 +18,10 @@ export default function PricingPage() {
   ];
 
   const premiumFeatures = [
-    'Everything in Standard',
-    'Full analytics & reporting',
-    'Priority support',
-    'White-label option',
-    'API access',
+    'Everything In Starter Plan',
+    'Api Access - Integrate with Anything',
+    'Unlimited Sub-Accounts - As Many Client Accounts as You Need for One Price!',
+    'A Complete Control Over the Looks and Feel of the Platform!',
     '7-day free trial'
   ];
 

@@ -212,7 +212,7 @@ export default function HomePage({ onNavigate, onScrollToVideo }: HomePageProps)
               onClick={() => onNavigate?.('pricing')}
               className="bg-gradient-to-r from-primary-500 to-secondary-500 hover:from-primary-600 hover:to-secondary-600 text-white px-12 py-5 rounded-2xl font-bold text-xl transition-all duration-300 transform hover:scale-105 shadow-2xl hover:shadow-3xl"
             >
-              Start Your 12-Day Free Trial
+              Start Your 7-Day Free Trial
             </button>
           </div>
         </div>
